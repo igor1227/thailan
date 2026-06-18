@@ -1,0 +1,6 @@
+{
+  "name": "Thailan Vasconcelos - Advogado do Digital",
+  "description": "Landing page de serviços para Thailan Vasconcelos, Advogado Especializado em Direito Digital, Compliance e Cripto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
